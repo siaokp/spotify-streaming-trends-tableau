@@ -9,6 +9,17 @@
 
 This repository contains a Tableau workbook analysing Spotify streaming data.  
 The project focuses on exploratory data analysis and dashboard design, using Tableau to surface patterns and trends in music streaming behaviour.
+## Popularity Metrics Dashboard
+
+![Popularity Metrics](images/12-popularity-metrics-dashboard.png)
+
+## Audio & Genre Characteristics
+
+![Audio & Genre Characteristics](images/13-audio-and-genre-characteristics-dashboard.png)
+
+## Track Behaviour & Listening Patterns
+
+![Track Behaviour & Patterns](images/14-track-behaviour-and-patterns-dashboard.png)
 
 All analysis is contained within a single Tableau Packaged Workbook (`.twbx`), including the dataset, worksheets, and dashboards.
 
